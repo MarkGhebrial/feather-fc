@@ -1616,9 +1616,9 @@
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf" (at 187.96 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a9bd8c17-196b-4050-9895-ab5f3ff6c126))
-    (pin "2" (uuid b7322ddc-83f9-4c5a-8ce5-4afb92f477d9))
-    (pin "3" (uuid 02eeed8f-68c4-447e-b419-78433b008011))
+    (pin "1" (uuid 9ad60450-e2e0-4553-b48f-1388db0e9bce))
+    (pin "2" (uuid 3c6ce050-7521-4def-849f-ca805ca99432))
+    (pin "3" (uuid 5ea8050f-379f-41a1-81f5-d206354d41e5))
     (instances
       (project "feather-fc"
         (path "/f7324c5f-3518-424c-a106-fa35bf6a0487"
